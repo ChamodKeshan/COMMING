@@ -1,0 +1,28 @@
+{
+  "name": "alpha-wabot-npm",
+  "version": "0.0.42",
+  "description": "🚀 NPM Package for Alpha-X-WA-Bot",
+  "main": "src/stack.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-Alpha-X/alpha-wabot-npm.git"
+  },
+  "author": "alpha",
+  "license": "GNU",
+   "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "axios": "0.24.0",
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/SL-Alpha-X/alpha-wabot-npm/issues"
+  },
+  "homepage": "https://github.com/SL-Alpha-X/alpha-wabot-npm#readme"
+}
