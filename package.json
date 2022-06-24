@@ -1,5 +1,5 @@
 {
-  "name": "alpha-wabot-npm",
+  "name": "Changumi-X",
   "version": "0.0.42",
   "description": "🚀 NPM Package for Alpha-X-WA-Bot",
   "main": "src/stack.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SL-Alpha-X/alpha-wabot-npm.git"
+    "url": "git+https://github.com/ChamodKeshan/Changumi-X.git"
   },
   "author": "alpha",
   "license": "GNU",
@@ -22,7 +22,7 @@
   },
   "devDependencies": {},
   "bugs": {
-    "url": "https://github.com/SL-Alpha-X/alpha-wabot-npm/issues"
+    "url": "https://github.com/ChamodKeshan/Changumi-X/issues"
   },
-  "homepage": "https://github.com/SL-Alpha-X/alpha-wabot-npm#readme"
+  "homepage": "https://github.com/ChamodKeshan/Changumi-X#readme"
 }
